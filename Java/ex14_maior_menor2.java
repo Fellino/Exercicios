@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * ex14_maior_menor2
+ * EXERCICIO 14 - LER VALORES E INFORMAR QUAL O MAIOR
  */
 public class ex14_maior_menor2 {
 
